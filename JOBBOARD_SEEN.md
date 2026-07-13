@@ -100,3 +100,14 @@ https://iworkfor.nsw.gov.au/job/medical-laboratory-assistant-collections-and-csr
 https://www.jobs.act.gov.au/jobs/act-health/temporary/24698
 https://www.careers.vic.gov.au/job/biosecurity-officer-67618
 https://www.careers.vic.gov.au/job/leading-biosecurity-officer-73154
+https://www.jobs.act.gov.au/jobs/canberra-health-services/temporary/50607-02qf3
+https://www.jobs.act.gov.au/jobs/canberra-health-services/temporary/603619-02r2k
+https://www.jobs.act.gov.au/jobs/canberra-health-services/temporary/31854-02qks
+https://www.jobs.act.gov.au/jobs/canberra-health-services/temporary/26116-02qjv
+https://www.jobs.act.gov.au/jobs/canberra-health-services/temporary/11722-02qjt
+https://www.jobs.act.gov.au/jobs/canberra-health-services/permanent/64386-02fqv
+https://www.jobs.act.gov.au/jobs/canberra-health-services/permanent/28853-02dgb
+https://www.jobs.act.gov.au/jobs/canberra-health-services/permanent/62849-02dm6
+https://www.jobs.act.gov.au/jobs/act-health/temporary/26166
+https://www.careers.vic.gov.au/job/medical-scientist-haematology-73866
+https://www.careers.vic.gov.au/job/medical-laboratory-technician-grade-1-72874
