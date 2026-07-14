@@ -1,5 +1,5 @@
 # Mazhar's Job Board
-**Last updated:** 13 July 2026
+**Last updated:** 14 July 2026
 
 ## Active Listings
 
@@ -14,11 +14,10 @@
 | 7 | Postdoctoral Fellow/Research Fellow — Indigenous Genomics | ANU — National Centre for Indigenous Genomics | Canberra ACT | ~Jul 2026 | **URGENT** (start Aug 2026) | REACH | [Apply](https://jobs.anu.edu.au/jobs/postdoctoral-fellow-research-fellow-canberra-act-act-australia-9a2d150b-1a11-4ecd-b03c-7782ee90f4bf) |
 | 8 | Computational RNA Biology Research Officer | ANU — Shine-Dalgarno Centre for RNA Innovation | Canberra ACT | ~Jul 2026 | **URGENT** | REACH | [Apply](https://jobs.anu.edu.au/jobs/computational-rna-biology-research-officer-canberra-act-act-australia) |
 | 9 | Technical Officer — Research and Analysis | NSW DPI / Elizabeth Macarthur Agricultural Institute | Menangle NSW (Sydney West) | ~Jul 2026 | **URGENT** (to 30 Jun 2027) | REACH | [Apply](https://iworkfor.nsw.gov.au/job/technical-officer-585299) |
-| 10 | Clinical Trials Coordinator (Research Officer Grade 2) | Canberra Health Services — Radiation Oncology | Canberra ACT | 1 Jul 2026 | **13 Jul 2026 — CLOSES TODAY** | REACH | [Apply](https://www.jobs.act.gov.au/jobs/canberra-health-services/permanent/37901,several-02qyu) |
 
-**Salary notes:** #1 Level A/B $85,010–$131,227 + 17% super (fixed-term to Feb 2028, Rathjen Group) | #2 Level B $118,632–$134,507 + 17% super (fixed-term to Dec 2028) | #3 Level A $85,010–$106,702 + 17% super (24-month fixed-term) | #4 Level A, est. $85k–$107k + 17% super | #5 $102,724–$111,165 + 15.4% super (3-yr term; ≤3 yrs postdoc experience required) | #6 ANU Officer 5/6, salary TBC | #7 Level A/B, salary TBC (est. $85k–$131k + 17% super; start Aug 2026) | #8 $87,750–$102,887 + 17% super (continuing to Feb 2028) | #9 NSW PSC Grade 7/8, est. $79k–$93k + super (18-month temporary to Jun 2027) | #10 $86,750–$93,416 + super (permanent, several positions, **closes today**)
+**Salary notes:** #1 Level A/B $85,010–$131,227 + 17% super (fixed-term to Feb 2028, Rathjen Group) | #2 Level B $118,632–$134,507 + 17% super (fixed-term to Dec 2028) | #3 Level A $85,010–$106,702 + 17% super (24-month fixed-term) | #4 Level A, est. $85k–$107k + 17% super | #5 $102,724–$111,165 + 15.4% super (3-yr term; ≤3 yrs postdoc experience required) | #6 ANU Officer 5/6, salary TBC | #7 Level A/B, salary TBC (est. $85k–$131k + 17% super; start Aug 2026) | #8 $87,750–$102,887 + 17% super (continuing to Feb 2028) | #9 NSW PSC Grade 7/8, est. $79k–$93k + super (18-month temporary to Jun 2027)
 
-**New today (13 Jul):** No new active listings found. Expired: Medical Laboratory Scientist HPO2 (CHS Pathology) removed — effective expiry was 12 Jul. Job board scan covered SEEK, ANU, ACT Gov, CSIRO, iWorkForNSW, Careers Vic, and Indeed; direct fetching was blocked but web search found no new relevant unseen roles. Check SEEK Microbiology/Canberra directly for a current APS5 Microbiologist contract (TGA regulatory lab, 12 months, via SOS Recruitment) — could not confirm a live URL to add to the board.
+**Update 14 Jul:** No new active listings found today. The Clinical Trials Coordinator (CHS Radiation Oncology) has been removed — it closed 13 Jul. Scan covered SEEK, ANU, ACT Gov, CSIRO, iWorkForNSW, Careers Vic, and Indeed; direct page fetching was blocked but web search identified no new relevant unseen roles. New URLs processed and added to the seen list: 16 additional entries (Senior Technical Officer at ANU CAM — microscopy/materials science, not molecular biology; Study Coordinator Research Officer at ANU NCEPH — epidemiology surveys; Research Fellow in rare-earth batteries; Lead Senior Bioinformatician in Newcastle NSW; Research Governance Officer Central Coast NSW; expired Medical Scientist Molecular Genetics VIC; expired Research Support Officer ANU; and other irrelevant/admin roles).
 
 ---
 
@@ -33,7 +32,6 @@
 - **7. Postdoctoral Fellow/Research Fellow, ANU NCIG — Indigenous Genomics:** Dr Hardip Patel's group at NCIG generates telomere-to-telomere reference genomes and population-scale variation catalogues for Indigenous Australian genomics; primarily computational/bioinformatics but your hands-on NGS library preparation, DNA sequencing experience, Python, and R skills make this a viable bench-to-bioinformatics transition — target start date is August 2026.
 - **8. Computational RNA Biology Research Officer (ANU):** Primarily bioinformatics role supporting RNA-seq analysis in the Shine-Dalgarno Centre; your Python and R skills are relevant, but this is a stretch given your wet-lab focus — apply if you're open to moving toward a more data-oriented role.
 - **9. Technical Officer — Research and Analysis, NSW DPI Menangle:** Elizabeth Macarthur Agricultural Institute 18-month temporary role (to June 2027) at NSW DPI in Sydney West; confirm the specific lab focus before applying — could involve PCR-based disease diagnostics, molecular surveillance, or fieldwork; lead with PCR, plant DNA extraction, and sample QC if molecular work is confirmed. Note: Menangle is ~3h from Canberra — relocation or commute required.
-- **10. Clinical Trials Coordinator, Radiation Oncology (CHS) — CLOSES TODAY 13 Jul:** TROG and investigator-led oncology trial coordination (primarily administrative, no bench work); lead with your research governance experience at JCSMR and familiarity with ethics and data management. **Apply immediately — closes today.**
 
 ---
 
