@@ -1,5 +1,5 @@
 # Mazhar's Job Board
-**Last updated:** 21 July 2026
+**Last updated:** 22 July 2026
 
 ## Active Listings
 
@@ -23,7 +23,7 @@
 
 **Salary notes:** #1 Capital Pathology — salary not published (private pathology, est. competitive + benefits) | #2 ANU Officer 6 $93,646–$97,929 + 17% super (JCSMR Fischer Group, Genome Sciences) | #3 Level A/B $85,010–$131,227 + 17% super (fixed-term to Feb 2028, Rathjen Group) | #4 Level B $118,632–$134,507 + 17% super (fixed-term to Dec 2028) | #5 Level A $85,010–$106,702 + 17% super (24-month fixed-term) | #6 Level A, est. $85k–$107k + 17% super | #7 ANU Officer 5/6, salary TBC | #8 ANU Officer 4/5 $70,102–$84,434 + 17% super (up to 12 months) | #9 Level A/B, est. $85k–$131k + 17% super (start Aug 2026) | #10 $87,750–$102,887 + 17% super (continuing to Feb 2028) | #11 NSW PSC Grade 7/8, est. $79k–$93k + super (18-month temporary to Jun 2027) | #12 Level A, est. $78,940–$99,083 + 17% super (2-year fixed-term, JCSMR) | #13 Level A $78,940–$99,083 + 17% super (36-month fixed-term, Tham Lab RSB) | #14 Health Manager Level 1 $87,813–$116,824 (temporary to Jul 2027, Cancer Institute NSW, Sydney) | #15 HP Level 2 $91,026–$108,691 + super (permanent, Canberra Hospital)
 
-**Update 21 Jul:** All job board sites returned 403 Forbidden again today (SEEK, ANU, CSIRO, ACT Gov, iWorkForNSW, Careers VIC, Indeed, LinkedIn — 18 fetch attempts total). Egress proxy block continues. Listings carry forward from 20 Jul. ⚠️ **Listing #15 (Scientist — Microbiology, ACT Pathology) closes 10 Aug 2026 — 20 days remaining. This is your highest-priority application.**
+**Update 22 Jul:** All job board sites returned 403 Forbidden again today (SEEK, ANU, CSIRO, ACT Gov, iWorkForNSW, Careers VIC, Indeed — 18 fetch attempts total). Egress proxy block continues. Listings carry forward from 21 Jul. ⚠️ **Listing #15 (Scientist — Microbiology, ACT Pathology) closes 10 Aug 2026 — 19 days remaining. This is your highest-priority application.**
 
 ---
 
