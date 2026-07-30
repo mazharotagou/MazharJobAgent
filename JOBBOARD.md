@@ -1,13 +1,13 @@
 # Mazhar's Job Board
-**Last updated:** 29 July 2026
+**Last updated:** 30 July 2026
 
 ## Active Listings
 
-> ⛔ **ALL job board sites have returned 403 Forbidden for 10 consecutive days (20–29 Jul).** SEEK, ANU, CSIRO, ACT Gov, iWorkForNSW, Careers VIC, and Indeed are all blocked by the egress proxy. No new listings can be retrieved. Listings carry forward from 23 Jul.
+> ⛔ **ALL job board sites have returned 403 Forbidden for 11 consecutive days (20–30 Jul).** SEEK, ANU, CSIRO, ACT Gov, iWorkForNSW, Careers VIC, and Indeed are all blocked by the egress proxy. No new listings can be retrieved. Listings carry forward from 23 Jul.
 >
 > ⚠️ **CRITICAL — URGENT listings #2–#15 (no closing date) were first identified ~23 Jul. The 4-day grace period expired ~27 Jul. These listings may have CLOSED. Please verify each one directly before applying.**
 >
-> ✅ **Listing #1 (Scientist — Microbiology, ACT Pathology) has a confirmed closing date of 10 Aug 2026 — 12 days remaining. This is your only confirmed-open listing.**
+> ✅ **Listing #1 (Scientist — Microbiology, ACT Pathology) has a confirmed closing date of 10 Aug 2026 — 11 days remaining. This is your only confirmed-open listing.**
 
 | # | Role | Organisation | Location | Posted | Deadline | Match | Link |
 |---|---|---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 
 **Salary notes:** #1 HP Level 2 $91,026–$108,691 + super (permanent, Canberra Hospital) | #2 Capital Pathology — salary not published (private pathology, est. competitive) | #3 ANU Officer 6 $93,646–$97,929 + 17% super (JCSMR Fischer Group) | #4 Level A $78,940–$99,083 + 17% super (2-year fixed-term, JCSMR) | #5 ANU Officer 5/6 salary TBC | #6 Level A/B $85,010–$131,227 + 17% super (fixed-term to Feb 2028) | #7 Level B $118,632–$134,507 + 17% super (fixed-term to Dec 2028) | #8 Level A $85,010–$106,702 + 17% super (24-month fixed-term) | #9 Level A, est. $85k–$107k + 17% super | #10 NSW PSC Grade 7/8, est. $79k–$93k + super (18-month temporary to Jun 2027) | #11 Level A $78,940–$99,083 + 17% super (36-month fixed-term) | #12 Health Manager Level 1 $87,813–$116,824 (temporary to Jul 2027) | #13 ANU Officer 4/5 $70,102–$84,434 + 17% super (up to 12 months) | #14 Level A/B, est. $85k–$131k + 17% super (start Aug 2026) | #15 $87,750–$102,887 + 17% super (continuing to Feb 2028)
 
-**Update 29 Jul — Day 10 of proxy block:** All 15 search URLs returned 403 Forbidden again today. No new listings retrieved. Listings carry forward from first identification on ~23 Jul. The 4-day URGENT grace period elapsed on ~27 Jul for listings #2–#15. These listings may or may not still be accepting applications — **please click through and verify each one directly before spending time on an application.** The only listing with a confirmed open deadline is **#1 (Scientist — Microbiology, ACT Pathology, closes 10 Aug 2026 — 12 days remaining)**.
+**Update 30 Jul — Day 11 of proxy block:** All 15 search URLs returned 403 Forbidden again today. No new listings retrieved. Listings carry forward from first identification on ~23 Jul. The 4-day URGENT grace period elapsed on ~27 Jul for listings #2–#15. These listings may or may not still be accepting applications — **please click through and verify each one directly before spending time on an application.** The only listing with a confirmed open deadline is **#1 (Scientist — Microbiology, ACT Pathology, closes 10 Aug 2026 — 11 days remaining)**.
 
 ---
 
