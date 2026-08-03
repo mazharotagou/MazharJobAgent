@@ -1,13 +1,13 @@
 # Mazhar's Job Board
-**Last updated:** 02 August 2026
+**Last updated:** 03 August 2026
 
 ## Active Listings
 
-> ⛔ **ALL job board sites have returned 403 Forbidden for 14 consecutive days (20 Jul – 02 Aug).** SEEK, ANU, CSIRO, ACT Gov, iWorkForNSW, Careers VIC, and Indeed are all blocked by the egress proxy. No new listings can be retrieved. Listings carry forward from 23 Jul.
+> ⛔ **ALL job board sites have returned 403 Forbidden for 15 consecutive days (20 Jul – 03 Aug).** SEEK, ANU, CSIRO, ACT Gov, iWorkForNSW, Careers VIC, and Indeed are all blocked by the egress proxy. No new listings can be retrieved. Listings carry forward from 23 Jul.
 >
 > ⚠️ **CRITICAL — URGENT listings #2–#15 (no closing date) were first identified ~23 Jul. The 4-day grace period expired ~27 Jul. These listings may have CLOSED. Please verify each one directly before applying.**
 >
-> ✅ **Listing #1 (Scientist — Microbiology, ACT Pathology) has a confirmed closing date of 10 Aug 2026 — 8 days remaining. This is your only confirmed-open listing.**
+> ✅ **Listing #1 (Scientist — Microbiology, ACT Pathology) has a confirmed closing date of 10 Aug 2026 — 7 days remaining. This is your only confirmed-open listing.**
 
 | # | Role | Organisation | Location | Posted | Deadline | Match | Link |
 |---|---|---|---|---|---|---|---|
@@ -29,13 +29,13 @@
 
 **Salary notes:** #1 HP Level 2 $91,026–$108,691 + super (permanent, Canberra Hospital) | #2 Capital Pathology — salary not published (private pathology, est. competitive) | #3 ANU Officer 6 $93,646–$97,929 + 17% super (JCSMR Fischer Group) | #4 Level A $78,940–$99,083 + 17% super (2-year fixed-term, JCSMR) | #5 ANU Officer 5/6 salary TBC | #6 Level A/B $85,010–$131,227 + 17% super (fixed-term to Feb 2028) | #7 Level B $118,632–$134,507 + 17% super (fixed-term to Dec 2028) | #8 Level A $85,010–$106,702 + 17% super (24-month fixed-term) | #9 Level A, est. $85k–$107k + 17% super | #10 NSW PSC Grade 7/8, est. $79k–$93k + super (18-month temporary to Jun 2027) | #11 Level A $78,940–$99,083 + 17% super (36-month fixed-term) | #12 Health Manager Level 1 $87,813–$116,824 (temporary to Jul 2027) | #13 ANU Officer 4/5 $70,102–$84,434 + 17% super (up to 12 months) | #14 Level A/B, est. $85k–$131k + 17% super (start Aug 2026) | #15 $87,750–$102,887 + 17% super (continuing to Feb 2028)
 
-**Update 02 Aug — Day 14 of proxy block:** All 15 search URLs returned 403 Forbidden again today. No new listings retrieved. Listings carry forward from first identification on ~23 Jul. The 4-day URGENT grace period elapsed on ~27 Jul for listings #2–#15. These listings may or may not still be accepting applications — **please click through and verify each one directly before spending time on an application.** The only listing with a confirmed open deadline is **#1 (Scientist — Microbiology, ACT Pathology, closes 10 Aug 2026 — 8 days remaining)**.
+**Update 03 Aug — Day 15 of proxy block:** All 15 search URLs returned 403 Forbidden again today. No new listings retrieved. Listings carry forward from first identification on ~23 Jul. The 4-day URGENT grace period elapsed on ~27 Jul for listings #2–#15. These listings may or may not still be accepting applications — **please click through and verify each one directly before spending time on an application.** The only listing with a confirmed open deadline is **#1 (Scientist — Microbiology, ACT Pathology, closes 10 Aug 2026 — 7 days remaining)**.
 
 ---
 
 ### Notes on Active Listings
 
-- **1. Scientist — Microbiology, Canberra Health Services / ACT Pathology:** Permanent HP Level 2 position ($91,026–$108,691 + super) at Canberra Hospital processing patient samples for bacteriology, mycobacteriology, mycology, and molecular microbiology; extended-hours roster (8am–10:30pm, 7 days, with on-call). **Closes 10 Aug 2026 — 8 days remaining; this is your highest-priority confirmed-open listing.** Lead with PCR, mycoplasma screening, LAMP, and molecular diagnostics experience. Contact: Susan Bradbury, Susan.Bradbury@act.gov.au.
+- **1. Scientist — Microbiology, Canberra Health Services / ACT Pathology:** Permanent HP Level 2 position ($91,026–$108,691 + super) at Canberra Hospital processing patient samples for bacteriology, mycobacteriology, mycology, and molecular microbiology; extended-hours roster (8am–10:30pm, 7 days, with on-call). **Closes 10 Aug 2026 — 7 days remaining; this is your highest-priority confirmed-open listing.** Lead with PCR, mycoplasma screening, LAMP, and molecular diagnostics experience. Contact: Susan Bradbury, Susan.Bradbury@act.gov.au.
 - **2. Scientific Officer, Capital Pathology — Clinical Microbiology/Molecular, Deakin ACT:** Private pathology provider seeking molecular microbiology scientist; PCR, LAMP, Qubit/TapeStation QC directly on-point. ⚠️ Grace period elapsed — verify still open at capitalpath.com.au or SEEK before applying.
 - **3. Technical Officer — Epigenetics & Genomic Stability (Fischer Lab), ANU JCSMR:** ANU Officer Grade 6 ($93,646–$97,929 + 17% super) supporting Synthetic Biology / personalised cancer treatment project; CRISPR functional genomics, lentiviral transduction, mammalian cell culture all directly relevant. ⚠️ Grace period elapsed — check SEEK job 59168756.
 - **4. Postdoctoral Fellow — Innate Immunity & Pathogen Biology, ANU JCSMR:** 2-year fixed-term studying pattern-recognition receptors and immune response; PhD in Microbiology, PCR, mammalian cell culture, and lentiviral transduction are directly relevant. ⚠️ Grace period elapsed — verify still open.
