@@ -1,27 +1,29 @@
 # Mazhar's Job Board
-**Last updated:** 08 August 2026
+**Last updated:** 24 August 2026
 
 ## Active Listings
 
 > ⚠️ **PROXY NOTE:** All job board sites (SEEK, ANU, ACT Gov, iWorkForNSW, Careers VIC, CSIRO, Indeed) remain blocked by the egress proxy. New listings sourced via web search index only — closing dates and descriptions are as found in cached search snippets; verify directly before applying.
 >
-> 🔴 **CLOSING TODAY +2 — Listing #1 (ACT Pathology Scientist) closes 10 Aug 2026. Apply NOW.**
+> 🔴 **CLOSING TOMORROW — Listing #2 (Haematology SRO) closes 25 Aug 2026. Apply TODAY.**
 >
-> 🔴 **NEW — Listing #2 (VIDRL Medical Scientist) closes 11 Aug 2026 (3 days). NEW today — apply immediately.**
+> 🔴 **CLOSING IN 2 DAYS — Listings #3 and #4 (ACT Pathology Technical Officer x2) close 26 Aug 2026.**
 >
-> ✅ Listings 2–15 from the 23 Jul carry-forward have been **removed**: their no-deadline 4-day grace period expired ~27 Jul and is now 12+ days past. Please verify and reapply if any are still open on the respective websites.
+> ℹ️ Expired listings removed: Scientist — Microbiology ACT Pathology (closed 10 Aug) and Medical Scientist VIDRL (closed 11 Aug) are no longer active.
 
 | # | Role | Organisation | Location | Posted | Deadline | Match | Link |
 |---|---|---|---|---|---|---|---|
-| 1 | Scientist — Microbiology (Health Professional Level 2) | Canberra Health Services / ACT Pathology | Canberra Hospital, Canberra ACT | 15 Jul 2026 | **10 Aug 2026 ⏰** | STRONG | [Apply](https://www.jobs.act.gov.au/jobs/canberra-health-services/permanent/29099-02r65) |
-| 2 | Medical Scientist — Enteric Virus Reference Laboratory | VIDRL / Peter Doherty Institute | Melbourne CBD, VIC | ~Jul 2026 | **11 Aug 2026 ⏰** | GOOD | [Apply](https://www.careers.vic.gov.au/job/medical-scientist-76183) |
-| 3 | Senior Research Officer 2 — Haematology Clinical Trials | Canberra Health Services | Canberra Hospital, Canberra ACT | 30 Jul 2026 | **25 Aug 2026** | REACH | [Apply](https://www.jobs.act.gov.au/jobs/canberra-health-services/permanent/71060-02r4r) |
+| 1 | Medical Laboratory Technician — Tissue Pathology & Diagnostic Oncology | NSW Health Pathology | Sydney, NSW (Inner West) | ~Aug 2026 | **URGENT** (no deadline found) | GOOD | [Apply](https://iworkfor.nsw.gov.au/job/medical-laboratory-technician-tissue-pathology-and-diagnostic-oncology-594465) |
+| 2 | Senior Research Officer 2 — Haematology Clinical Trials | Canberra Health Services | Canberra Hospital, ACT | 30 Jul 2026 | **25 Aug 2026 ⏰ TOMORROW** | REACH | [Apply](https://www.jobs.act.gov.au/jobs/canberra-health-services/permanent/71060-02r4r) |
+| 3 | Technical Officer Level 1 (Temporary — 20 months) | Canberra Health Services / ACT Pathology | Canberra Hospital, ACT | 14 Aug 2026 | **26 Aug 2026 ⏰** | STRONG | [Apply](https://www.jobs.act.gov.au/jobs/canberra-health-services/temporary/17148-02rgz) |
+| 4 | Technical Officer Level 1 (Permanent) | Canberra Health Services / ACT Pathology | Canberra Hospital, ACT | 17 Aug 2026 | **26 Aug 2026 ⏰** | STRONG | [Apply](https://www.jobs.act.gov.au/jobs/canberra-health-services/permanent/19114-02rii) |
 
 ### Notes on Active Listings
 
-- **1. Scientist — Microbiology, ACT Pathology (Canberra Hospital):** Permanent HP Level 2 position ($91,026–$108,691 + super). Extended-hours roster (8am–10:30pm, 7 days, on-call); processes patient samples for bacteriology, mycobacteriology, mycology, and molecular microbiology. **CLOSES IN 2 DAYS — highest priority.** Lead with PCR, mycoplasma LAMP, Qubit/TapeStation QC, and molecular diagnostics. Contact: Susan.Bradbury@act.gov.au.
-- **2. Medical Scientist, VIDRL — Enteric Virus Reference Laboratory (Melbourne):** Identifies and characterises enteric viruses using virus culture and molecular techniques (PCR-based); supports diagnostic testing and surveillance informing public health responses across Victoria and internationally. Based at the Peter Doherty Institute, Melbourne CBD. **CLOSES IN 3 DAYS — new listing, act immediately.** Lead with PCR, molecular diagnostics, and microbiology background. Note: Melbourne is a relocation — apply if open to moving.
-- **3. Senior Research Officer 2 — Haematology Clinical Trials, Canberra Health Services:** Permanent position ($102,657–$116,592 + super) in the Research Operations & Clinical Trials Unit (Haematology). Clinical trials coordination role; no explicit lab component but PhD research background and molecular biology expertise are transferable to trial management. REACH — apply if clinical trial pathway is of interest. Contact: tony.garrido@act.gov.au.
+- **1. Medical Laboratory Technician — Tissue Pathology & Diagnostic Oncology, NSW Health Pathology (Sydney):** Permanent full-time Technical Officer Grade 1/2 ($71,338–$102,751 + super) at a Sydney Inner West facility. Tissue pathology and diagnostic oncology work; PCR-based molecular assays, histopathology support. Sydney-based role — apply if open to relocation. Lead with PCR, gel electrophoresis, QC skills. Verify posting date and closing date before applying — no deadline was indexed, treat as urgent.
+- **2. Senior Research Officer 2 — Haematology Clinical Trials, Canberra Health Services:** Permanent ($102,657–$116,592 + super) in the Research Operations & Clinical Trials Unit. Clinical trials coordination role with no explicit lab component. REACH — apply if clinical trial pathway is of interest. **CLOSES TOMORROW (25 Aug).** Contact: tony.garrido@act.gov.au.
+- **3. Technical Officer Level 1 (Temporary), ACT Pathology:** Temporary 20-month position ($74,490–$75,529 + super) with possibility of extension and/or permanency. ACT Pathology specimen services / customer services including collection of pathology samples at Canberra Hospital and community sites. Contact: Louise Hyndes (same as prior ACT Pathology roles). **CLOSES 26 AUG.** Lead with lab sample handling, clinical pathology, phlebotomy if applicable.
+- **4. Technical Officer Level 1 (Permanent), ACT Pathology:** Same salary band ($74,490–$75,529 + super) as listing #3 but permanent headcount. Posted 17 Aug 2026, same contact (Louise Hyndes). Likely companion advertisement to listing #3 — apply to both simultaneously. **CLOSES 26 AUG.** Lead with molecular diagnostics background and analytical lab skills.
 
 ---
 
