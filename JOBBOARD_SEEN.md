@@ -251,3 +251,8 @@ https://jobs.anu.edu.au/jobs/postdoctoral-fellow-canberra-act-act-australia-0f5d
 https://www.ethicaljobs.com.au/members/emergeaustralia/biobank-coordinator
 https://www.jobs.act.gov.au/jobs/canberra-health-services/permanent/50887-02r0y
 https://iworkfor.nsw.gov.au/job/medical-laboratory-technician-tissue-pathology-and-diagnostic-oncology-594465
+https://www.jobs.act.gov.au/jobs/canberra-health-services/permanent/71302-02rcw
+https://www.jobs.act.gov.au/jobs/canberra-health-services/permanent/21260-02rb7
+https://jobs.anu.edu.au/jobs/research-services-officer-canberra-act-act-australia-809cd37a-7eaf-447d-8012-44a8102deb32
+https://iworkfor.nsw.gov.au/job/medical-laboratory-technician-592800
+https://iworkfor.nsw.gov.au/job/clinical-geneticist-575926
