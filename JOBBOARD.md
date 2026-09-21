@@ -1,13 +1,16 @@
 # Mazhar's Job Board
-**Last updated:** 06 September 2026
+**Last updated:** 21 September 2026
 
 ## Active Listings
 
 > ⚠️ **PROXY NOTE:** All job board sites (SEEK, ANU, ACT Gov, iWorkForNSW, Careers VIC, CSIRO, Indeed) remain blocked by the egress proxy. New listings sourced via web search index only — closing dates and descriptions are as found in cached search snippets; verify directly before applying.
->
-> ℹ️ **Expired listings removed:** Senior Scientist HP3 CHS (closed 31 Aug 2026), Scientist Diagnostic Genomics ACT Pathology (closed 01 Sep 2026). Full search across all 15 configured sources run today — no new matching listings found.
 
-No new listings today.
+| # | Role | Organisation | Location | Posted | Deadline | Match | Link |
+|---|---|---|---|---|---|---|---|
+| 1 | Research Technician – National Biodiversity DNA Library (x2 positions) | CSIRO | Canberra (Black Mountain), ACT | Aug/Sep 2026 | URGENT | GOOD | [Apply](https://workopia.io/jobs/4eabb5780855eaa755a025cc539cf491) |
+
+### Notes on Active Listings
+- **1. Research Technician – CSIRO NBDL:** Two positions contributing to Australia's national eDNA reference library — role involves hands-on DNA/tissue sampling from museum and herbarium collections, specimen metadata management, and genomic data curation; lead with DNA extraction, tissue sampling, and collections-based molecular biology experience. Salary AU$100k–$103k + 15.4% super, fixed-term to June 2028. No closing date found — apply urgently and verify status directly at jobs.csiro.au (proxy blocked here). LinkedIn flagged as "Be an early applicant" in early September 2026.
 
 ---
 
