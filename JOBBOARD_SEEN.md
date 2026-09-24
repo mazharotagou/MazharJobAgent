@@ -298,3 +298,13 @@ https://jobs.health.nsw.gov.au/nswhp/jobs/medical-laboratory-scientist-molecular
 https://jobs.health.nsw.gov.au/internal/jobs/hospital-scientist-bioinformatics-anzac-research-institute-297146
 https://jobs.health.nsw.gov.au/internal/jobs/hospital-scientist-scientific-officer-institute-of-precision-medicine-bioinformatics-293782
 https://jobs.health.nsw.gov.au/jobs/sydney-genome-diagnostics-cytogenetics-hospital-scientific-officer-research-224153
+https://jobs.anu.edu.au/jobs/technical-officer-canberra-act-act-australia-e6dab79b-fde1-43dd-aa95-56ded8909593
+https://jobs.anu.edu.au/jobs/research-officer-canberra-act-act-australia-e2d0245c-275f-4f45-a41c-aa5f8093aef1
+https://jobs.anu.edu.au/jobs/postdoctoral-fellow-canberra-act-act-australia-752118f6-00bd-4d39-8f32-754c85d04fbc
+https://jobs.csiro.au/job/Canberra,-ACT-CSIRO-Postdoctoral-Fellowship-in-Digital-Integration-for-Farming-Systems-Science/1367151166
+https://www.careers.vic.gov.au/job/medical-scientist-microbiology-63227
+https://jobs.health.nsw.gov.au/internal/jobs/medical-laboratory-scientist-molecular-virology-genomics-311612
+https://jobs.health.nsw.gov.au/medical-jobs/jobs/medical-laboratory-scientist-301862
+https://jobs.anu.edu.au/jobs/recruitment-assistant-canberra-act-act-australia-19bc59cc-ed3e-45e0-9fb7-6802ad55173b
+https://jobs.health.nsw.gov.au/jobs/medical-laboratory-scientist-microbiology-299241
+https://smartjobs.qld.gov.au/jobs/QLD-CSQ653153
