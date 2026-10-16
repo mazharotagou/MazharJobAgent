@@ -1,5 +1,5 @@
 # Mazhar's Job Board
-**Last updated:** 24 September 2026
+**Last updated:** 16 October 2026
 
 ## Active Listings
 
@@ -7,10 +7,12 @@
 
 | # | Role | Organisation | Location | Posted | Deadline | Match | Link |
 |---|---|---|---|---|---|---|---|
-| 1 | Research Technician – National Biodiversity DNA Library (x2 positions) | CSIRO | Canberra (Black Mountain), ACT | Early Sep 2026 | URGENT | GOOD | [Apply](https://workopia.io/jobs/4eabb5780855eaa755a025cc539cf491) |
+| 1 | Technical Officer (School of Engineering) | ANU | Canberra, ACT | Oct 2026 | 28 Oct 2026 | REACH | [Apply](https://jobs.anu.edu.au/jobs/technical-officer-canberra-act-act-australia-c33e6ea6-a8e6-421a-8c69-abe84a1f523d) |
+| 2 | Research Officer — Plant DNA / NGS (Peakall Lab) | ANU Research School of Biology | Canberra, ACT | Oct 2026 | 8 Nov 2026 | STRONG | [Apply](https://jobs.anu.edu.au/jobs/research-officer-canberra-act-act-australia-2db513f4-4451-45a3-975a-072d30650d8d) |
 
 ### Notes on Active Listings
-- **1. Research Technician – CSIRO NBDL:** Two positions contributing to Australia's national eDNA reference library — role involves DNA/tissue sampling from museum and herbarium collections, specimen metadata management, and genomic data curation; lead with DNA extraction, tissue sampling, and collections-based molecular biology experience. Salary AU$100k–$103k + 15.4% super, fixed-term to June 2028. ⚠️ No closing date found — this listing is now ~3 weeks old; may already be closed. Verify urgently at jobs.csiro.au before applying. LinkedIn flagged as "Be an early applicant" in early September 2026.
+- **1. Technical Officer (ANU Engineering):** Lab technical role covering equipment maintenance, compliance, and infrastructure in the School of Engineering (Grade 6, $100,847–$105,459 + 17% super, fixed-term 12 months); not molecular biology-focused but an ANU foothold — lead with instrument maintenance and lab management experience. Deadline in 12 days.
+- **2. Research Officer — Peakall Lab:** Outstanding skills match — role directly requires plant DNA/RNA extraction, Oxford Nanopore and NGS library preparation, PCR, and sequence data processing (Grade 5/6, $89,760–$105,459 + 17% super, 0.5 FTE part-time, funded to June 2029); lead with NGS amplicon library prep and DNA extraction experience. Contact: Rod Peakall rod.peakall@anu.edu.au.
 
 ---
 

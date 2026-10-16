@@ -308,3 +308,15 @@ https://jobs.health.nsw.gov.au/medical-jobs/jobs/medical-laboratory-scientist-30
 https://jobs.anu.edu.au/jobs/recruitment-assistant-canberra-act-act-australia-19bc59cc-ed3e-45e0-9fb7-6802ad55173b
 https://jobs.health.nsw.gov.au/jobs/medical-laboratory-scientist-microbiology-299241
 https://smartjobs.qld.gov.au/jobs/QLD-CSQ653153
+https://jobs.anu.edu.au/jobs/research-officer-canberra-act-act-australia-2db513f4-4451-45a3-975a-072d30650d8d
+https://jobs.anu.edu.au/jobs/technical-officer-canberra-act-act-australia-c33e6ea6-a8e6-421a-8c69-abe84a1f523d
+https://jobs.anu.edu.au/jobs/technical-officer-canberra-act-act-australia-b0ca7e00-df27-4ce8-b46f-8603e5d3756e
+https://jobs.anu.edu.au/jobs/technical-officer-canberra-act-act-australia-3ac5e9ca-179c-4d91-bd53-9c6115236c4d
+https://jobs.anu.edu.au/jobs/senior-technical-officer-ngs-canberra-act-act-australia
+https://jobs.anu.edu.au/jobs/senior-technical-officer-canberra-act-act-australia-cd3cabe9-62cc-43de-b59a-7856ab6951fb
+https://jobs.anu.edu.au/jobs/research-fellow-canberra-act-act-australia-feb2aaf8-15c7-4ece-b69e-489365232ce7
+https://jobs.anu.edu.au/jobs/genomics-technician-lead-canberra-act-act-australia
+https://melanoma.org.au/news/biobank-coordinator/
+https://employmenthero.com/jobs/position/melanoma-institute-australia-biobank-coordinator-k2y6l/
+https://jobs.csiro.au/job/Geelong%2C-VIC-Molecular-Diagnostician/1332180866
+https://jobrxiv.org/job/research-officer-peakall/
