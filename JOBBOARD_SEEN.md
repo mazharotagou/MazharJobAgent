@@ -320,3 +320,15 @@ https://melanoma.org.au/news/biobank-coordinator/
 https://employmenthero.com/jobs/position/melanoma-institute-australia-biobank-coordinator-k2y6l/
 https://jobs.csiro.au/job/Geelong%2C-VIC-Molecular-Diagnostician/1332180866
 https://jobrxiv.org/job/research-officer-peakall/
+https://careers.alfredhealth.org.au/job/KJDA9/5Q7G63B0E/alfred-cancer-biobank-coordinator
+https://careers.alfredhealth.org.au/job/9MTAN/4ES182L3Z/alfred-cancer-biobank-coordinator
+https://ethicaljobs.com.au/members/ccia/technical-assistant
+https://jobs.anu.edu.au/jobs/technical-officer-canberra-act-act-australia-76c1ef9f-5b15-4319-8e0a-1fb4aa4e5f25
+https://jobs.anu.edu.au/jobs/technical-officer-canberra-act-act-australia-46dedfb4-d26f-4f76-b1f5-ac88740ef725
+https://jobs.anu.edu.au/jobs/technical-officer-canberra-act-act-australia-8500c7df-186d-448a-bcbb-5158d0ae2be5
+https://jobs.anu.edu.au/jobs/technical-officer-canberra-act-act-australia-1c96c4cc-34ec-483f-9103-cea18ca735b4
+https://jobs.anu.edu.au/jobs/technical-officer-canberra-act-act-australia-cac4aec0-3d21-4d94-90b4-48a462aed1b2
+https://jobs.anu.edu.au/jobs/senior-technical-officer-canberra-act-act-australia-54ea7747-8cc6-4c9b-a9db-41512172b290
+https://jobs.anu.edu.au/jobs/postdoctoral-research-fellow-canberra-act-act-australia-db5f1e24-2a91-430f-ace5-6d82cc90e000
+https://jobs.anu.edu.au/jobs/research-fellow-canberra-act-act-australia-f7ce90d9-2c7b-4c27-85c3-04eb3bad0502
+https://jobs.anu.edu.au/jobs/electronics-technical-officer-canberra-act-act-australia
