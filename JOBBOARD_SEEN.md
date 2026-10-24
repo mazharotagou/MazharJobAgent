@@ -349,3 +349,4 @@ https://www.careers.vic.gov.au/job/scientist-88467
 https://www.jobs.act.gov.au/jobs/city-and-environment/permanent/72143
 https://www.jobs.act.gov.au/jobs/health-and-community-services/temporary/36674
 https://www.jobs.act.gov.au/jobs/canberra-health-services/temporary/58361,several-02qz5
+https://careers.pageuppeople.com/513/ind/en/job/692518/senior-technical-officer
